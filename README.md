@@ -1,4 +1,4 @@
-# Analisis-Everpeak
+# telecom-analysis
 
 **Objetivo del Proyecto**
 Entender como los clientes usan realmente los servicios moviles (llamadas y mensajes), identificando patrones de uso, comportamientos atipicos, segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
